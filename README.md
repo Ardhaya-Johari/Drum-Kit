@@ -124,11 +124,15 @@ Contributions are welcome! Here are some ways you can contribute:
 
 This project is open source and available under the [MIT License](LICENSE).
 
+## 👤 Creator
+
+**Ardhaya Johari**  
+🔗 [GitHub](https://github.com/Ardhaya-Johari)  
+📧 ardhayasaxena3897@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/ardhaya-johari-819275321/)
 ## 📞 Contact
 
 Created with ❤️ by Ardhaya
-
-- GitHub: [Ardhaya-Johari](https://github.com/Ardhaya-Johari)
 
 ---
 
